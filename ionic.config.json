@@ -1,0 +1,8 @@
+{
+  "name": "infinity_academia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "55f45957"
+}
